@@ -1,5 +1,8 @@
  # Instagram Poster
- Post your pictures on instagram! Bypasses the lack of API by using selenium and using a web browser to post on instagram.
+
+MOST LIKELY DEPRECATED!! (feel free to give it a try and see if it works)
+ 
+Post your pictures on instagram! Bypasses the lack of API by using selenium and using a web browser to post on instagram.
  
 This repo has 2 files: login.py and post.py. Both have one and only one method each:
 
